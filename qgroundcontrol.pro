@@ -55,10 +55,10 @@ WindowsBuild {
 # Branding
 #
 
-QGC_APP_NAME        = "QGroundControl"
-QGC_ORG_NAME        = "QGroundControl.org"
-QGC_ORG_DOMAIN      = "org.qgroundcontrol"
-QGC_APP_DESCRIPTION = "Open source ground control app provided by QGroundControl dev team"
+QGC_APP_NAME        = "PhiGroundControl"
+QGC_ORG_NAME        = "PhiGroundControl.org"
+QGC_ORG_DOMAIN      = "org.phigroundcontrol"
+QGC_APP_DESCRIPTION = "Phi Systems ground control app based on QGroundControl"
 QGC_APP_COPYRIGHT   = "Copyright (C) 2019 QGroundControl Development Team. All rights reserved."
 
 WindowsBuild {
